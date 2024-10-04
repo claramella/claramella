@@ -1,11 +1,9 @@
 ### Hi, I'm @claramella 👋
 
-I'm a Master's student in Bioinformatics at University of Rome Tor Vergata. <br><br>
-I'm currently looking for a curricular internship that allows me to acquire new skills and write the Master’s thesis in an interesting scientific field.<br><br>
+Master's student in Bioinformatics with hands-on experience in computational neuroanatomy and evolutionary genetics. Seeking to apply my programming and data analysis skills to bioinformatics research or pharmaceutical data science.<br><br>
 Here you find the projects I realized, some of them working in group with some collegues from my University.<br><br>
 📫 How to reach me:
 - personal email fazzari.clara(at)gmail.com
-- university email clara.fazzari(at)students.uniroma2.eu
 - CV
 <!--
 **claramella/claramella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
