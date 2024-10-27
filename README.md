@@ -4,7 +4,8 @@ Master's student in Bioinformatics with hands-on experience in computational neu
 Here are the programming projects I’ve developed, including some collaborative ones with my university colleagues.<br><br>
 📫 How to reach me:
 - email [fazzari.clara(at)gmail.com](mailto:fazzari.clara@gmail.com)
-- [CV](https://drive.google.com/file/d/1W-hyuXfr652uQUgsdv1Yj8xOQkYkXgTk/view?usp=sharing)
+- [CV](CV_ClaraFazzari_Oct2024.pdf)
+
 <!--
 **claramella/claramella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
