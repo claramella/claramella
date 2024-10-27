@@ -1,9 +1,9 @@
 ### Hi, I'm @claramella 👋
 
 Master's student in Bioinformatics with hands-on experience in computational neuroanatomy and evolutionary genetics. Seeking to apply my programming and data analysis skills to bioinformatics research or pharmaceutical data science.<br><br>
-Here you find the projects I realized, some of them working in group with some collegues from my University.<br><br>
+Here are the programming projects I’ve developed, including some collaborative ones with my university colleagues.<br><br>
 📫 How to reach me:
-- personal email fazzari.clara(at)gmail.com
+- email fazzari.clara(at)gmail.com
 - CV
 <!--
 **claramella/claramella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
