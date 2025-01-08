@@ -4,7 +4,7 @@ Graduate in Bioinformatics with hands-on experience in computational neuroanatom
 Here are the programming projects I’ve developed, including some collaborative ones with my university colleagues.<br><br>
 📫 How to reach me:
 - email [fazzari.clara(at)gmail.com](mailto:fazzari.clara@gmail.com)
-- [CV](CV_ClaraFazzari_Oct2024.pdf)
+- [CV](CV_ClaraFazzari_Jan25.pdf)
 
 <!--
 **claramella/claramella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
