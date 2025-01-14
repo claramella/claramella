@@ -1,6 +1,6 @@
 ### Hi, I'm @claramella 👋
 
-Graduate in Bioinformatics with hands-on experience in computational neuroanatomy and evolutionary genetics. Seeking to apply my programming and data analysis skills to bioinformatics research or pharmaceutical data science.<br><br>
+Master's graduate in Bioinformatics with specialized expertise in computational neuroanatomy and evolutionary genetics. Proficient in programming, data analysis, and the application of bioinformatics tools to complex biological questions.<br><br>
 Here are the programming projects I’ve developed, including some collaborative ones with my university colleagues.<br><br>
 📫 How to reach me:
 - email [fazzari.clara(at)gmail.com](mailto:fazzari.clara@gmail.com)
